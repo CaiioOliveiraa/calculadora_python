@@ -1,6 +1,6 @@
 # Calculadora Interativa em Python 🚀
 
-Uma calculadora simples e interativa desenvolvida em Python, ideal para quem está iniciando e deseja praticar conceitos fundamentais como loops, tratamento de exceções e validação de dados. O script realiza operações matemáticas básicas (soma, subtração, multiplicação e divisão) e possui mecanismos para lidar com entradas inválidas.
+Uma calculadora simples e interativa desenvolvida em Python, onde pratiquei conceitos fundamentais como loops, tratamento de exceções e validação de dados. O script realiza operações matemáticas básicas (soma, subtração, multiplicação e divisão) e possui mecanismos para lidar com entradas inválidas.
 
 Funcionalidades 💡
 
